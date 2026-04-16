@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy JuanJose 👋
 
 <!--
 **juanjose703/juanjose703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
