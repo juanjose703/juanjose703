@@ -7,7 +7,7 @@
 </div>
 
 <strong>
-Estudiante de Ingeniería de Software y técnico en sistemas, con base en Colombia 🇨🇴. Mi enfoque está en el desarrollo backend, donde me
+Estudiante de Ingeniería de Software y técnico en sistemas, con base en Colombia. Mi enfoque está en el desarrollo backend, donde me
 interesa comprender la lógica y la arquitectura que hacen funcionar una aplicación. Actualmente amplío mi perfil explorando el desarrollo de aplicaciones móviles para Android. Busco seguir fortaleciendo mis habilidades técnicas mediante proyectos prácticos
 </strong>
 
