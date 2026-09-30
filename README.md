@@ -21,7 +21,7 @@ interesa comprender la lógica y la arquitectura que hacen funcionar una aplicac
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,figma,github,html,java,js,mongodb,mysql,py,vscode,kubernetes&perlin=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mongodb,mysql,py,kotlin,vscode,idea,androidstudio,supabase	,kubernetes&perlin=14" />
   </a>
 </p>
 
