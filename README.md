@@ -2,20 +2,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan José</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Juan José</h1></summary>
   </ul>
 </div>
 
 <strong>
 Estudiante de Ingeniería de Software y técnico en sistemas, con base en Colombia. Mi enfoque está en el desarrollo backend, donde me
-interesa comprender la lógica y la arquitectura que hacen funcionar una aplicación. Actualmente amplío mi perfil explorando el desarrollo de aplicaciones móviles para Android. Busco seguir fortaleciendo mis habilidades técnicas mediante proyectos prácticos
+interesa comprender la lógica y la arquitectura que hacen funcionar una aplicación. Actualmente amplío mi perfil explorando el desarrollo de aplicaciones móviles para Android. Busco seguir fortaleciendo mis habilidades técnicas mediante proyectos prácticos.
 </strong>
 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -30,7 +30,7 @@ interesa comprender la lógica y la arquitectura que hacen funcionar una aplicac
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
   </ul>
 </div>
 
